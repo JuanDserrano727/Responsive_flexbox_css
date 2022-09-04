@@ -1,0 +1,33 @@
+body{
+    height: 100vh;
+    width: 100%;
+    background-position: left;
+  
+}
+
+.contenedor{
+    background-image: url('LarnU imagen.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.contenedor__subtitulo,.contenedor__parrafo,.p1{
+    color:black;
+ font-size: 25px;
+}
+.contenedor__boton{
+color:black;
+font-style: oblique;
+background-color:blue;
+}
+
+.form{
+position: relative;
+left: 10rem;
+background: none;
+}
+
+.contenedor__titulo{
+position: relative;
+left: 22rem;
+}
